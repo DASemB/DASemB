@@ -1,7 +1,7 @@
 - 👋 Привет, я Семен Белов
 - 👀 меня интересует работа в сфере Аналитики данных
 - 🌱 В настоящее время я прохожу обчение в Яндекс практикуме
-- 📫 sembeloff@yandex.ru, telegram @fire-vnutri
+- 📫 semblff@gmail.com, telegram @fire-vnutri
 
 <!---
 DASemB/DASemB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
